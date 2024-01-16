@@ -1,11 +1,23 @@
 .navbar-brand{
   font-size: 2em;
   justify-content: center;
+  font-family: 'Homemade Apple', cursive;
 }
 .date{
-
+  font-family: 'Englebert', cursive;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 4em;
 }
 .pic{
   width: 500px;
   height: 500px;
+  display: flex;
+  align-items: center;
+}
+.blurb{
+  font-family: 'Englebert', cursive;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 5%;
 }
