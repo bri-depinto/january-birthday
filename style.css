@@ -1,3 +1,7 @@
 .navbar-brand{
   font-size: 2em;
+  justify-content: center;
+}
+.date{
+justify-content: center center;
 }
