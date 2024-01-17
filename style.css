@@ -1,3 +1,11 @@
+body{
+  background-color: #fbe7ee;
+}
+
+.navbar{
+ background-color: #fec2d6;
+}
+
 .navbar-brand{
   font-size: 2.5em;
   justify-content: center;
@@ -22,11 +30,12 @@ padding: 3%;
   padding: 3%;
 }
 .blurbb{
-  background-color: deeppink;
+  background-color: white;
   border-radius: 5%;
+  box-shadow: 0 4px 8px 0 #fa5796, 0 6px 20px 0 #fa5796;
 }
 hr{
-  border: solid pink 3px;
+  border: solid #fa5796 3px;
   margin-top: -3%;
   opacity: 100%;
   width: 250px;
