@@ -6,8 +6,8 @@
 .date{
   font-family: 'Englebert', cursive;
   text-align: center;
-  padding-top: 5%;
-  font-size: 4em;
+  padding-top: 7%;
+  font-size: 4.5em;
 }
 .pic{
   width: 500px;
@@ -16,8 +16,9 @@
   align-items: center;
 }
 .blurb{
-  font-family: 'Englebert', cursive;
+  font-family: 'Zen Maru Gothic', serif;
   font-size: 1.5em;
   text-align: center;
-  padding: 5%;
+  padding: 3%;
+  padding-top: 0%;
 }
