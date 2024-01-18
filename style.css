@@ -10,6 +10,11 @@ body{
   font-size: 2.5em;
   justify-content: center;
   font-family: 'Homemade Apple', cursive;
+  transition: 0.5s;
+}
+.navbar-brand:hover{
+  transition: 0.5s;
+  transform: scale(1.1, 1.1);
 }
 .date{
   font-family: 'Englebert', cursive;
