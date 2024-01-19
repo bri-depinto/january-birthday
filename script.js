@@ -23,3 +23,8 @@ function year1993(){
     document.getElementById('response-text').innerText='I can confidently say that today you drank water. Wether from a water bottle, or a refrigerator, or the sink, you 100% drank some water today. On March 22, 1993, the first official World Water Day was held! World Water Day focuses on the importance of freshwater and raising awareness to the 2.2 billion people without access to safe water. They host fundraisers with specific themes such as “Leveraging Water for Peace” to tackle the global water crisis. Who knew something so simple as water has a national day after it!'
     document.getElementById('response-date').innerText= 'March 22, 1993'
 }
+function year1997(){
+    document.getElementById('changeImage').src = 'images/ice.png'
+    document.getElementById('response-text').innerText='Think back to the days when you were a Freshman or Sophomore in highschool, what was your biggest accomplishment? Maybe it can, but I doubt it can compete with what Tara Lipnski accomplished on March 22, 1997. At the young age of 15, Tara became the youngest winner of an individual event in the history of the Winter Games! Competing for the United States in figure skating, Tara took first place and won the gold olympic medal! She beat Sonja Henies 70-year-old record and created one of her own which she still holds to this day!'
+    document.getElementById('response-date').innerText= 'March 22, 1997'
+}
