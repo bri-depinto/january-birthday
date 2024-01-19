@@ -13,3 +13,13 @@ function year1957(){
     document.getElementById('response-text').innerText='Imagine the whole world shaking beneath your feet? Well for people in San Francisco on March 22, 1957, they did not have to imagine it! A striking earthquake with a magnitude of 5.3 rattled San Francisco which was considered the largest earthquake that struck on the peninsula since 1906! It was highly destructive, taking 3,000 lives and leaving half the city homeless! What a crazy world we live in!'
     document.getElementById('response-date').innerText= 'March 22, 1957'
 }
+function year1963(){
+    document.getElementById('changeImage').src = 'images/beatle.png'
+    document.getElementById('response-text').innerText='“Well shake it up baby now (shake it up baby), twist and shout!” Sound familiar? On March 22, 1963, the Beatles released their first album called “Please Please Me” featuring many popular songs we still listen to today! Some songs include the following: “Twist and Shout”, “Ask Me Why”, “Baby It Is You” “Love Me Do” and many more! 6 weeks later, this album reached number one on Disc charts and remained there for nearly 7 months! WOW!'
+    document.getElementById('response-date').innerText= 'March 22, 1963'
+}
+function year1993(){
+    document.getElementById('changeImage').src = 'images/world.png'
+    document.getElementById('response-text').innerText='I can confidently say that today you drank water. Wether from a water bottle, or a refrigerator, or the sink, you 100% drank some water today. On March 22, 1993, the first official World Water Day was held! World Water Day focuses on the importance of freshwater and raising awareness to the 2.2 billion people without access to safe water. They host fundraisers with specific themes such as “Leveraging Water for Peace” to tackle the global water crisis. Who knew something so simple as water has a national day after it!'
+    document.getElementById('response-date').innerText= 'March 22, 1993'
+}
